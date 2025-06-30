@@ -1,0 +1,10 @@
+Notes:
+Terraform CLI
+
+- Create the main.tf and terraform.ts
+
+- CLI 
+  - terraform init
+  - terraform apply
+  - docker ps (validate)
+  - terraform destroy
